@@ -25,11 +25,11 @@ Versi game **Flappy Bird modifikasi ringan** yang dibuat khusus untuk perangkat 
 
 ## 📁 Struktur File
 
-- [GameLaknad.py](GameLaknad.py)     # Source code game
-- [README.md](README.md)             # Dokumentasi project
-- [Page 1.png](Page%201.png)         # Folder dokumentasi visual (tangkapan layar)
-- [Page 2.png](Page%202.png)         # Folder dokumentasi visual (tangkapan layar)
-```
+- [GameLaknad.py](GameLaknad.py) 🎮 Source code game
+- [README.md](README.md) 📝 Dokumentasi project
+- [Page 1.png](Page%201.png) 📸 Tangkapan layar menu awal
+- [Page 2.png](Page%202.png) 📸 Tangkapan layar saat bermain
+
 
 ---
 
